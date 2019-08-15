@@ -1,1 +1,1 @@
-Fork of Parse Server to customise some backend logic
+Customised fork of a basic parse server for initial Alrightbet backend
